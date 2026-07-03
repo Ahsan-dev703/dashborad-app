@@ -9,6 +9,12 @@ Minimal, mobile-first admin dashboard built with React, Vite and Tailwind.
 - Reusable components: Modal, ActionButton, StatCard, Charts (Recharts)
 - Edit / Delete / View flows using modals
 
+## Screenshots
+
+| Overview                             | Sales                          | Settings                            | Login                          |
+| ------------------------------------ | ------------------------------ | ----------------------------------- | ------------------------------ |
+| ![Overview](src/assets/overview.png) | ![Sales](src/assets/sales.png) | ![Settings](src/assets/setting.png) | ![Login](src/assets/login.png) |
+
 ## Tech stack
 
 - React 18+ with Vite

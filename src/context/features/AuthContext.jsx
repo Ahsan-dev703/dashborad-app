@@ -4,7 +4,7 @@ const AuthContext = createContext(null);
 
 // Create the provider
 export const AuthProvider = ({ children }) => {
-  const [isAuthenticated, setIsAuthenticated] = useState(true); // Default to true for demo purposes
+  const [isAuthenticated, setIsAuthenticated] = useState(false); // Default to true for demo purposes
 
   const login = () => setIsAuthenticated(true);
   const logout = () => setIsAuthenticated(false);
