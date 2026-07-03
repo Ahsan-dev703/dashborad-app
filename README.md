@@ -11,7 +11,7 @@ Minimal, mobile-first admin dashboard built with React, Vite and Tailwind.
 
 ## Screenshots
 
-| ![Overview](src/assets/overview.png) | ![Sales](src/assets/sales.png) | ![Settings](src/assets/setting.png) | ![Login](src/assets/login.png) |
+[Login](src/assets/login.png) | ![Overview](src/assets/overview.png) | ![Sales](src/assets/sales.png) | ![Settings](src/assets/setting.png) | 
 
 ## Tech stack
 
